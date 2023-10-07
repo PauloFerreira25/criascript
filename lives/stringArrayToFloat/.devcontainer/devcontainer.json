@@ -1,0 +1,16 @@
+{
+  "name": "stringArrayToFloat",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+"remoteUser": "node",
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"redhat.vscode-yaml",
+			"mhutchie.git-graph"
+		]
+	}
+}
+}
